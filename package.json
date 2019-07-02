@@ -1,0 +1,16 @@
+{
+  "name": "lav3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/cosmos": "^2.1.7",
+    "@azure/service-bus": "^1.0.2",
+    "durable-functions": "^1.2.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {}
+}
